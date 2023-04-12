@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software developer combing every resource available so as to become tech savvy<br>🔭 I’m currently working on interactive CRUD websites and mobile applications<br>👯 I’m open to collaborate on brainstorming tech solutions<br>🤝 I’m looking for help with creating a public transport app<br>💬 Ask me about Kotlin, Python, HTML and CSS<br>⚡ The sky is not limit!
+I am a software developer combing every resource available so as to become tech savvy<br>🔭 I’m currently working on interactive CRUD websites and mobile applications<br>👯 I’m open to collaborate on brainstorming tech solutions<br>🤝 I’m looking for help with creating a public transport app<br>💬 Ask me about Kotlin, Python, HTML and CSS<br>⚡ The sky is not my limit!
 
 
 # 💻 Tech Stack:
